@@ -11,6 +11,7 @@ public class GithubTest2ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("-------1111------");
     }
 
 }
