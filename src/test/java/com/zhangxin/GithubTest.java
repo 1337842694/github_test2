@@ -13,6 +13,7 @@ public class GithubTest {
     public void contextLoads() {
         System.out.println("-------1111------");
         System.out.println("-------dev-------");
+        System.out.println("-------dev222-------");
     }
 
 }
