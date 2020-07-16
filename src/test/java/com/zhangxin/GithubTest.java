@@ -17,6 +17,7 @@ public class GithubTest {
         System.out.println("-------dev333-------");
         System.out.println("-------网站提娜佳-------");
         int a = 20;
+        int b = 20;
     }
 
 }
